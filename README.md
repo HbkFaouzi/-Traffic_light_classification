@@ -16,6 +16,9 @@ Generally placed at road intersections and crossings, the main objective of the 
 ## Loss plot
 
 ## Prediction results 
+Green light prediction
+
+Red ligth prediction
 
 ## REFERENCES
 https://www.marksandharrison.com/accident-attorney/car-accidents/causes-of-car-accidents/disobeying-traffic-signals/ 
